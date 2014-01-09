@@ -1,0 +1,6 @@
+.label {
+	width:100px;text-align:right;float:left;padding-right:10px;font-weight:bold;
+}
+#register-form label.error, .output {
+	color:#FB3A3A;font-weight:bold;
+}
